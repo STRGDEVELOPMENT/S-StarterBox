@@ -13,7 +13,7 @@
 Created by: STRG#0420
 ----------------------
 
--- Installation --
+-- Installation Guide --
 
 
 - # Config ⚙️️️️ 
