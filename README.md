@@ -13,6 +13,9 @@
 Created by: STRG#0420
 ----------------------
 
+-- Installation --
+
+
 - # Config ⚙️️️️ 
 
 `Config = {}
